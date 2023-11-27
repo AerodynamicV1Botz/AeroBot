@@ -2,5 +2,5 @@ pyrogram==2.0.106
 tgcrypto==1.2.5
 sqlalchemy==1.4.46
 psycopg2-binary==2.9.8
-aiohttp==3.8.5
+aiohttp==3.9.1
 asyncio==3.4.3
